@@ -1,0 +1,14 @@
+{
+  "name": "electronsample",
+  "version": "1.0.0",
+  "description": "Electron yardımıyla html sayfasını masaüstü uygulamasına çevirme",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Atahan Öztürk",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.3"
+  }
+}
